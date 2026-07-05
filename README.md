@@ -198,7 +198,7 @@ AI assistants maintain context from previous interactions, which can sometimes l
 * Paste your most recent code version
 * Explain what you're trying to accomplish clearly
 
-**Why it works**: This clears out potentially conflicting history, resets model context lenghth limitations and gives the AI a clean slate to work with. Think of it as rebooting your computer when it gets sluggish.
+**Why it works**: This clears out potentially conflicting history, resets model context length limitations and gives the AI a clean slate to work with. Think of it as rebooting your computer when it gets sluggish.
 
 **Exercise**: Try this by deliberately giving the AI conflicting instructions about a feature. When it gets confused, start a new conversation with clear, singular direction and notice the difference in results.
 
